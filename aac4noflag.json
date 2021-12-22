@@ -1,0 +1,479 @@
+{
+  "TargetESP": {
+    "State": false,
+    "Settings": {
+      "espMode": "Box",
+      "2D ESP": true,
+      "fill2D": true,
+      "outLine": true,
+      "2DWidth": 0.4,
+      "blurStrenght": 6.0,
+      "ColorTargetESP": "java.awt.Color[r\u003d29,g\u003d255,b\u003d48]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Breadcrumbs": {
+    "State": false,
+    "Settings": {
+      "BreadcrumbsColor": "java.awt.Color[r\u003d33,g\u003d216,b\u003d36]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NoHurtCam": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "TabGui": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ArrowESP": {
+    "State": false,
+    "Settings": {
+      "onlyOffScreen": true,
+      "radius": 12.0,
+      "size": 12.0,
+      "ColorArrowESP": "java.awt.Color[r\u003d0,g\u003d0,b\u003d0]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "BetterFPS": {
+    "State": false,
+    "Settings": {
+      "uglyModels": true,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "LongJump": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Hud": {
+    "State": true,
+    "Settings": {
+      "sorted": true,
+      "rightBar": true,
+      "colorBackground": false,
+      "textshadow": true,
+      "minecraftFont": true,
+      "backgroundColor": "java.awt.Color[r\u003d0,g\u003d0,b\u003d0]",
+      "textColor": "java.awt.Color[r\u003d244,g\u003d0,b\u003d0]",
+      "fontType": "moon",
+      "colorType": "Rainbow",
+      "logoType": "Rect",
+      "rainbowTime": 3.0,
+      "backgroundAlpha": 161.0,
+      "yAxis": 0.0,
+      "xAxis": 0.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NameTags": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NoFall": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "SlowerHIT": {
+    "State": false,
+    "Settings": {
+      "value": 1.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NameProtect": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Integer": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "AutoTool": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Chams": {
+    "State": false,
+    "Settings": {
+      "chamsColor": "java.awt.Color[r\u003d0,g\u003d0,b\u003d0]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Step": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "BowAimbot": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Glide": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "FlagDetector": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "KillAura": {
+    "State": false,
+    "Settings": {
+      "cpsMin": 12.0,
+      "cpsMax": 12.0,
+      "sprintMultiplication": 2.0,
+      "miniHopY": 0.05,
+      "scalePitch": -1.0,
+      "scaleYaw": -1.0,
+      "Smoothing": 30.0,
+      "packetCritDelay": 3.0,
+      "FOV": 360.0,
+      "maxTargetsSwitch": 4.0,
+      "SwitchDelay": 417.0,
+      "heuristicsX": 200.0,
+      "heuristicsY": 200.0,
+      "heuristicsZ": 200.0,
+      "stopSprintBeforAttack": 0.1,
+      "Range": 3.0,
+      "MovementFix": true,
+      "Prediction": false,
+      "randomSmooth": true,
+      "Rotations": true,
+      "CheckContainer": true,
+      "lockView": false,
+      "bestVec": true,
+      "moreParticles": false,
+      "ESP": true,
+      "renderWithBody": true,
+      "legitAttack": true,
+      "randomRots": true,
+      "smoothRotations": true,
+      "heuristics": false,
+      "stripTrailingZeros": true,
+      "noSprint": false,
+      "GcdFix": true,
+      "Crit": false,
+      "RenderRotations": true,
+      "Walls": true,
+      "BlockMode": "Fake",
+      "AutoBlock": true,
+      "rayCast": true,
+      "jumpFix": true,
+      "Players": true,
+      "Villagers": true,
+      "Mobs": true,
+      "Animals": true,
+      "Invisibles": true,
+      "targetHUD": true,
+      "AliveCheck": true,
+      "GettingType": "Switch",
+      "GCDType": "Basic",
+      "SwingType": "Packet",
+      "CritType": "Legit",
+      "RandomType": "Math.random",
+      "StrafeType": "Hard",
+      "targetHUDMode": "Rounded",
+      "roundingMode": "CEILING",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Log4JCrasher": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "BackTrack": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Crossair": {
+    "State": false,
+    "Settings": {
+      "Gap": 1.9000000000000001,
+      "Length": 1.5,
+      "DynamicCap": true,
+      "ColorCrossair": "java.awt.Color[r\u003d18,g\u003d134,b\u003d235]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ClickGUI": {
+    "State": false,
+    "Settings": {
+      "ColorClickGUI": "java.awt.Color[r\u003d38,g\u003d98,b\u003d196]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ChinaHat": {
+    "State": false,
+    "Settings": {
+      "chinaHatColor": "java.awt.Color[r\u003d0,g\u003d0,b\u003d0]",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Notifications": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ChatSpammer": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ChestStealer": {
+    "State": false,
+    "Settings": {
+      "Delay": 12.0,
+      "Close": true,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Flight": {
+    "State": false,
+    "Settings": {
+      "FLY_MODE": "BlocksMC",
+      "blocksmc2Speed": 8.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NoSlowDown": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "WorldTime": {
+    "State": false,
+    "Settings": {
+      "Time": -1000.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NoBob": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Compass": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "VerusDisabler": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ColorConsolve": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "HawkGodMode": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "AntiCheat": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "AutoSprint": {
+    "State": true,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "HotBar": {
+    "State": true,
+    "Settings": {
+      "smooth": true,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "NoVelocity": {
+    "State": false,
+    "Settings": {
+      "Mode": "Cancel",
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "TargetStrafe": {
+    "State": false,
+    "Settings": {
+      "SpaceOnly": true,
+      "InVoid": false,
+      "Range": 2.0,
+      "Roundness": 9.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "FastPlace": {
+    "State": false,
+    "Settings": {
+      "delay": 0.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "AutoArmor": {
+    "State": false,
+    "Settings": {
+      "openINV": true,
+      "StandStill": true,
+      "dropItems": true,
+      "Packet": true,
+      "hotbarAutoArmor": true,
+      "putDelay": 1.0,
+      "dropDelay": 1.0,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Tired": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Manager": {
+    "State": false,
+    "Settings": {
+      "openInvDelay": 75.0,
+      "clickDelay": 115.0,
+      "openInv": true,
+      "keepTools": true,
+      "checkRealItem": true,
+      "preferSwords": true,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "ScaffoldWalk": {
+    "State": false,
+    "Settings": {
+      "Sprint": false,
+      "Swing": false,
+      "AutoSwitch": false,
+      "Silent": false,
+      "Delay": 0.0,
+      "moveFIX": true,
+      "expand": true,
+      "Tower": true,
+      "rotations": true,
+      "TowerMotion": 0.42,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Speed": {
+    "State": false,
+    "Settings": {
+      "SpeedMode": "BlocksMC",
+      "MoveGround": true,
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "FastLadder": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "InventoryMove": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  },
+  "Phase": {
+    "State": false,
+    "Settings": {
+      "Version: ": "b56",
+      "Time: ": "Wed Dec 22 18:35:36 CET 2021"
+    }
+  }
+}
